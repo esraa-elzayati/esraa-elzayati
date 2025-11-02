@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there  it's Esraa El-Zayati 😄😄
 
-<!--
-**esraa-elzayati/esraa-elzayati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤖 Aspiring Robotics & AI Engineer
+### 💻 Currently learning Python, Electronics, and Robot Simulation
+### 🌱 Exploring how intelligent systems learn, move, and interact with the world
+### 📚 Passionate about combining programming, physics, and creativity to build robots that make life better
 
-Here are some ideas to get you started:
+ ## 🚀 My Current Learning Path
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🐍 Python programming (Elzero & freeCodeCamp)
+### ⚡ Electronics and Arduino basics (Tinkercad Simulations)
+### 🧠 Data Structures & Algorithms
+### 🤖 ROS (Robot Operating System) & Gazebo Simulation
+
+## 🧩 What I’m Working On
+
+### 🤔 Creating small Python automation projects
+### 💬 Exploring AI-powered robotics applications
+
+## 🌐 Connect With Me
+
+### 📫 [Email]: (esraa.elzayati1925@gmail.com)
+### ⚙️ GitHub Projects: Coming soon!
+
+## ⚡ Fun Fact
+### 🤖✨ I love learning how machines think — and teaching them how to move. 🤖✨
+
+
+
+
