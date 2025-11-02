@@ -1,4 +1,4 @@
-# Hi there  it's Esraa El-Zayati 😄😄
+# Hi there, it's Esraa El-Zayati 😄😄
 
 ### 🤖 Aspiring Robotics & AI Engineer
 ### 💻 Currently learning Python, Electronics, and Robot Simulation
